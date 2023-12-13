@@ -2,3 +2,12 @@ body{
     background-color: #1b1b1b;
     color: #fff;
 }
+.answer_div{
+    display: flex;
+    flex-direction: row;
+    align-items: baseline;
+}
+.answer_input{
+    padding: 5px;
+    width: 10px;
+}
